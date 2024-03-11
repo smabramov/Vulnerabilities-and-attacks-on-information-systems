@@ -31,6 +31,8 @@
 
 ftp, ssh, telnet, smtp, dns, http, rpcbind, netbios, smb, rlogind, nfs, mysql, postgresql, vnc, x11, irc, ajp13, apache tomcat, java-rmi.
 
+![службы](https://github.com/smabramov/Vulnerabilities-and-attacks-on-information-systems/blob/d34b21121b9b48b579a10fdf64595e565314c6b3/jpg/%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D1%8B.jpg)
+
 - Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
 
 <br>
